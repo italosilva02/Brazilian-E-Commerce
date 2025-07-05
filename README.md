@@ -79,16 +79,20 @@ Este projeto é voltado para demonstração analítica e visual no Power BI. Nen
 
 ## 📷 Screenshots
 > *Delivery*
-![image](https://github.com/user-attachments/assets/f2b6564a-903f-4e74-b4c0-5eda71516be5)
+![image](https://github.com/user-attachments/assets/d239cb04-9633-40d0-8903-ffe632be6177)
+
 
 > *Delivery Mapa*
-![image](https://github.com/user-attachments/assets/843105a7-f3ff-4271-805f-0ae87fbdbc25)
+![image](https://github.com/user-attachments/assets/2c51406a-5a0f-4d3b-a4a3-01bef2d04ccd)
+
 
 > *Order Cost Freight*
-![image](https://github.com/user-attachments/assets/53c98446-9bb3-4e87-bc9a-cf870f9cfddb)
+![image](https://github.com/user-attachments/assets/0743eb0b-e409-474b-b78d-3810e57254af)
+
 
 > *Score Review*
-![image](https://github.com/user-attachments/assets/7e32ec08-c4d9-454c-a42a-6336166dce73)
+![image](https://github.com/user-attachments/assets/2c53ae29-7820-4e57-8bf1-ef31c5f3180c)
+
 
 ---
 
